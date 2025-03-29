@@ -1,0 +1,34 @@
+Slide 1: Welcome to JavaScript Crash Course  
+- JavaScript makes web pages interactive  
+- You’ll build a simple To-Do app today
+
+---
+
+Slide 2: What You’ll Learn  
+- HTML = structure  
+- CSS = style  
+- JavaScript = behavior  
+- How they all work together
+
+---
+
+Slide 3: The DOM  
+- DOM = Document Object Model  
+- JavaScript lets you change HTML live  
+- You’ll select elements and respond to clicks
+
+---
+
+Slide 4: Project Overview  
+- Input field to type a task  
+- Button to add the task  
+- Task appears in a list
+
+---
+
+Slide 5: Stretch Goals  
+- Add checkboxes or delete buttons  
+- Save tasks in browser memory  
+- Make it your own!
+
+

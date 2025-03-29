@@ -1,0 +1,18 @@
+Hey everyone, and welcome to Week 3 of the DataDiva Bootcamp!
+
+This week, we’re building a real interactive web app using 
+JavaScript.
+
+You’ll create a simple To-Do List where users can type a task 
+and add it to a list. It’s your first intro to how HTML, CSS, 
+and JavaScript all work together.
+
+We’ll walk through the structure of the page, how to style it, 
+and how to use JavaScript to make it respond to user input.
+
+By the end of this module, you’ll have your own working app — 
+and the skills to make more!
+
+Let’s dive in 💜
+
+
