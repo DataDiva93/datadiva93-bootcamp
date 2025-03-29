@@ -1,0 +1,29 @@
+Slide 1: Welcome to Python Basics  
+- Python is beginner-friendly  
+- Used in data science, automation, and web apps  
+
+---
+
+Slide 2: Input & Variables  
+- Use input() to collect user data  
+- Store data in variables for reuse  
+
+---
+
+Slide 3: Project 1 – Mad Libs  
+- Fill-in-the-blank storytelling game  
+- Teaches string formatting and input  
+
+---
+
+Slide 4: Project 2 – Calculator  
+- Get user numbers and math operators  
+- Use if/elif/else logic to do calculations  
+
+---
+
+Slide 5: Stretch Goals  
+- Use loops and error handling  
+- Add creative flair to make it your own  
+
+

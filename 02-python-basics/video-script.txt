@@ -1,0 +1,13 @@
+Hey everyone, and welcome to Week 2 of the DataDiva Bootcamp.
+
+This week, we’re diving into Python — one of the most popular and 
+beginner-friendly programming languages.
+
+You’ll build two real projects: a Mad Libs game and a simple calculator.
+
+We’ll use input, variables, and if-statements — the foundations of writing 
+your own logic and making interactive programs.
+
+Let’s code together and bring your ideas to life 💜
+
+
