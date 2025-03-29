@@ -1,0 +1,18 @@
+Hey everyone, and welcome to Week 5 of the DataDiva Bootcamp!
+
+Today we’re building our first full-stack project: a simple blog 
+using PHP and MySQL.
+
+You’ll write SQL to create a posts table, then use PHP to 
+connect to that database and display each post on your webpage.
+
+This is how most dynamic websites work — data lives in a 
+database, and your code decides how and when to show it.
+
+By the end of this module, you’ll have a real dynamic website 
+where the content lives in a database and updates live on the 
+page.
+
+Let’s build it together 💜
+
+

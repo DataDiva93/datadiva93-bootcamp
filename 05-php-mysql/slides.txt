@@ -1,0 +1,33 @@
+Slide 1: Welcome to PHP + MySQL  
+- Build dynamic web apps with real databases  
+- You’ll create a blog that pulls posts from MySQL
+
+---
+
+Slide 2: How PHP + MySQL Work Together  
+- PHP runs on the server and connects to a database  
+- MySQL stores your content (like blog posts)  
+- PHP reads data and prints it into HTML
+
+---
+
+Slide 3: Project Overview  
+- You’ll create a blog homepage  
+- Posts are stored in a MySQL table  
+- PHP pulls and displays them when you load the page
+
+---
+
+Slide 4: New Skills  
+- Writing SQL to create and populate a table  
+- Using PHP to connect to MySQL  
+- Looping through results and echoing them as HTML
+
+---
+
+Slide 5: Stretch Goals  
+- Add post dates or authors  
+- Create a form to add posts  
+- Filter or limit the number of results
+
+
