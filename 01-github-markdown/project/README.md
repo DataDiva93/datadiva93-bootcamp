@@ -1,13 +1,25 @@
+# Module 1: GitHub + Markdown
 
----
+Welcome to Week 1 of the DataDiva Bootcamp! 💜
 
-### 📂 `project/README.md`
+In this module, you’ll create your first GitHub repository and practice 
+using Markdown to communicate clearly and professionally.
 
-```markdown
-# My First Repo
+## ✅ Skills Covered
 
-👋 Hi! I'm learning GitHub with DataDiva93.
+- Creating a GitHub repository
+- Writing and editing a README
+- Committing changes from the terminal
+- Using Markdown for formatting
 
-This is my first real repo. More coming soon!
+## 📂 Files
+
+- `README.md` – Your first professional GitHub file
+- `lab.md` – Step-by-step instructions for building your repo
+- `slides.txt` – Key takeaways and teaching points
+- `video-script.txt` – Your on-camera guide
+
+You're one step closer to building a public portfolio. Great work!
+
 
 
