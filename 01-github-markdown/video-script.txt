@@ -1,0 +1,16 @@
+
+---
+
+### 🎥 `video-script.txt`
+
+Hey everyone, and welcome to Week 1 of the DataDiva Bootcamp!
+
+Today we’re learning how to use GitHub—your portfolio in the cloud.
+
+We’ll walk through creating a repo, editing your first README, and making 
+your first commit.
+
+This is how developers work together and show their work professionally.
+
+Let’s create your first project and make it real 💜
+

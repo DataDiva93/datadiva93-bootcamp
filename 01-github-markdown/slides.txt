@@ -1,0 +1,28 @@
+Slide 1: Welcome to GitHub
+- What is GitHub?
+- Why developers use it
+- Version control in plain English
+
+Slide 2: Key Concepts
+- Repository (folder for your code)
+- Commit (snapshot)
+- Push (send code to GitHub)
+- Clone (download repo to your computer)
+
+Slide 3: Markdown Basics
+- # Heading
+- **Bold**, *Italic*
+- Lists, Links, Code blocks
+
+Slide 4: Your First Repo
+- Create repo on GitHub
+- Clone to your machine
+- Add a README.md
+- Push changes back
+
+Slide 5: Project
+- Create a repo called `my-first-repo`
+- Write your README
+- Make your first commit
+
+
