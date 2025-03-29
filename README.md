@@ -35,6 +35,7 @@ Each module includes:
 | Module | Topic                  | Project                                      
 |
 |--------|------------------------|----------------------------------------------|
+
 | 01     | GitHub + Markdown      | Your first repo with a professional 
 README   |
 | 02     | Python Basics          | Mad Libs Game + Simple Calculator            
@@ -46,13 +47,13 @@ README   |
 | 05     | PHP + MySQL            | Dynamic blog with database                   
 |
 | 06     | Excel for Analysts     | KPIs and dashboards in spreadsheets          
+
 |
 | 07     | Tableau Dashboards     | Visual analytics on sales data               
 |
 | 08     | Power BI Reporting     | Interactive reports for stakeholders         
 |
-| 09     | Capstone               | Choose your own portfolio project            
-|
+| 09     | Capstone               | Choose your own portfolio project            |
 
 ---
 
