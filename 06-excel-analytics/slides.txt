@@ -1,0 +1,35 @@
+Slide 1: Welcome to Excel for Analysts  
+- Excel is a core tool for data analysts  
+- We’ll build dashboards, KPIs, and charts
+
+---
+
+Slide 2: Key Excel Skills  
+- Formulas (SUM, AVERAGE, COUNTIF)  
+- Calculated Columns  
+- Conditional Formatting  
+- Data Validation  
+- Pivot Tables
+
+---
+
+Slide 3: Project Overview  
+- Analyze sales data  
+- Build a dashboard  
+- Track revenue and top products
+
+---
+
+Slide 4: Dashboard Elements  
+- KPI Cards (Total Sales, Avg Order, etc.)  
+- Charts: Bar, Line, Pie  
+- Filters for Month or Region
+
+---
+
+Slide 5: Stretch Goals  
+- Add slicers or dropdown filters  
+- Create trend lines for performance  
+- Use named ranges for clean formulas
+
+

@@ -1,0 +1,17 @@
+Hey everyone, and welcome to Week 6 of the DataDiva Bootcamp!
+
+This week, we’re diving into Excel — one of the most essential 
+tools for analysts and data professionals.
+
+You’ll learn how to calculate total sales, create pivot tables, 
+and visualize your insights with clean, clear dashboards.
+
+We’ll use formulas, charts, and filters to build a real KPI 
+dashboard that you could use in a business setting.
+
+By the end of this module, you’ll be able to explore and present 
+data visually — and that’s a skill every employer looks for.
+
+Let’s jump into Excel and build together 💜
+
+
