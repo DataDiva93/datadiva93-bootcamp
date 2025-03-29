@@ -1,0 +1,17 @@
+Hey everyone, and welcome to Week 4 of the DataDiva Bootcamp!
+
+This week we’re diving into SQL — the language of data.
+
+SQL is used in almost every job that works with data. Whether 
+you're an analyst, engineer, or data scientist, it helps you 
+pull answers directly from databases.
+
+In this lab, you’ll use a real employee dataset to write SELECT 
+statements, filter data, sort results, and calculate averages.
+
+By the end of this module, you'll be able to explore real 
+datasets with confidence — and that's a superpower in tech.
+
+Let’s jump in and write some queries together 💜
+
+

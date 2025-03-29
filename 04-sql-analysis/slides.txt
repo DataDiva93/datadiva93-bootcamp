@@ -1,0 +1,35 @@
+Slide 1: Welcome to SQL for Data Analysis  
+- SQL helps us ask questions about data  
+- You’ll use it to explore a real dataset
+
+---
+
+Slide 2: What is SQL?  
+- Stands for Structured Query Language  
+- Used to create, read, update, and delete data  
+- Works with databases like PostgreSQL, SQLite, and MySQL
+
+---
+
+Slide 3: Key Commands  
+- SELECT = get data  
+- WHERE = filter data  
+- ORDER BY = sort data  
+- GROUP BY = summarize data
+
+---
+
+Slide 4: Real-World Use Case  
+- We’re analyzing employee records  
+- You’ll write queries to answer real business questions
+
+---
+
+Slide 5: Stretch Goals  
+- Count rows  
+- Find the highest value  
+- Filter by dates
+
+You're learning a skill used by every data analyst out there 💜
+
+
