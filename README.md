@@ -31,28 +31,27 @@ Each module includes:
 
 ## 🚀 Modules
 
-| Module | Topic                   | Project                                      
+| Module | Topic                   | Project                                     
 |
-|--------|-------------------------|----------------------------------------------|
+|--------|-------------------------|---------------------------------------------|
 | 01     | GitHub + Markdown       | Your first repo with a 
-professional README   |
+professional README  |
 | 02     | Python Basics           | Mad Libs Game + Simple 
-Calculator            |
+Calculator           |
 | 03     | JavaScript Fundamentals | Interactive To-Do List Web 
-App               |
-| 04     | SQL for Data Analysis   | Querying a sample dataset                    
+App              |
+| 04     | SQL for Data Analysis   | Querying a sample dataset                   
 |
-| 05     | PHP + MySQL             | Dynamic blog with database                   
+| 05     | PHP + MySQL             | Dynamic blog with database                  
 |
 | 06     | Excel for Analysts      | KPIs and dashboards in 
-spreadsheets          |
+spreadsheets         |
 | 07     | Tableau Dashboards      | Visual analytics on sales 
-data               |
+data              |
 | 08     | Power BI Reporting      | Interactive reports for 
-stakeholders         |
+stakeholders        |
 | 09     | Capstone                | Choose your own portfolio 
-project            |
-
+project           |
 
 
 ---
