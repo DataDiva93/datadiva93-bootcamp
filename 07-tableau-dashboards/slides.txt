@@ -1,0 +1,34 @@
+Slide 1: Welcome to Tableau Dashboards  
+- Tableau is a top BI tool used in business + data analytics  
+- Build interactive, visual dashboards without code
+
+---
+
+Slide 2: What You’ll Learn  
+- Load data and explore it visually  
+- Create charts that answer business questions  
+- Build a dashboard for stakeholder decisions
+
+---
+
+Slide 3: Key Features  
+- Drag-and-drop interface  
+- Filters, sorting, highlight actions  
+- Real-time updates from live data sources
+
+---
+
+Slide 4: Dashboard Elements  
+- Revenue by region (Bar Chart)  
+- Sales over time (Line Chart)  
+- Product share (Pie Chart)
+
+---
+
+Slide 5: Real-World Use  
+- Sales performance  
+- Product insights  
+- Marketing dashboards  
+- Executive reports
+0
+

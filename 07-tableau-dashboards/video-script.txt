@@ -1,0 +1,16 @@
+Hey everyone, and welcome to Week 7 of the DataDiva Bootcamp!
+
+This week, we’re diving into Tableau — one of the most powerful 
+tools for visualizing data and building dashboards.
+
+You’ll load a real dataset, create calculated fields, and build 
+visual charts to show revenue trends, regional performance, and 
+product share.
+
+We’ll then combine all that into a clean, professional dashboard 
+that looks great and tells a clear story.
+
+Tableau is used by analysts, marketers, execs — and now you!  
+Let’s go from rows and columns to insights and action 💜
+
+
