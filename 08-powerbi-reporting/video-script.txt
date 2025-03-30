@@ -1,0 +1,18 @@
+Hey everyone, and welcome to Week 8 of the DataDiva Bootcamp!
+
+Today, we’re diving into Power BI — Microsoft’s 
+industry-standard tool for creating powerful, interactive 
+dashboards.
+
+You’ll load real sales data, create visualizations, add filters, 
+and publish your work to the Power BI service.
+
+We’ll cover calculated columns, slicers, and layout tips so your 
+dashboard is clear and insightful.
+
+By the end of this module, you’ll be able to take raw data and 
+turn it into a dashboard you can present to any business team.
+
+Let’s get into Power BI and bring your data to life 💜
+
+

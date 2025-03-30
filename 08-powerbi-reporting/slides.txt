@@ -1,0 +1,36 @@
+Slide 1: Welcome to Power BI Reporting  
+- Build interactive reports for business insights  
+- Used by analysts, managers, and execs
+
+---
+
+Slide 2: What is Power BI?  
+- Microsoft’s top business intelligence tool  
+- Drag-and-drop visuals  
+- Connects to Excel, CSV, SQL, and more
+
+---
+
+Slide 3: Core Features  
+- Calculated columns and DAX formulas  
+- Visuals: bar, line, pie, KPIs  
+- Slicers and filters  
+- Publishing and sharing dashboards
+
+---
+
+Slide 4: Dashboard Flow  
+- Load data  
+- Create visuals  
+- Add slicers  
+- Publish to Power BI Service
+
+---
+
+Slide 5: Real-World Use  
+- Sales performance dashboards  
+- Marketing conversion reports  
+- Financial and executive summaries  
+- Operations and logistics KPIs
+
+
