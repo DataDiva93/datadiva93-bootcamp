@@ -1,0 +1,36 @@
+Slide 1: Welcome to the Capstone  
+- Time to create your OWN project  
+- Apply what you’ve learned  
+- Show your creativity and skill
+
+---
+
+Slide 2: What You Can Build  
+- A web app  
+- A dashboard (Power BI, Tableau, Excel)  
+- A Python data analysis tool  
+- A multi-tool project
+
+---
+
+Slide 3: Project Requirements  
+- Create a project folder  
+- Include your code or workbook  
+- Add a README with instructions  
+- (Optional) Add screenshots or demo video
+
+---
+
+Slide 4: Make It Yours  
+- Solve a real problem  
+- Tell a story with your data  
+- Customize it for your career goals
+
+---
+
+Slide 5: Congratulations 💜  
+- You’ve completed 9 full modules  
+- You now have a full portfolio  
+- You ARE a data + tech professional!
+
+

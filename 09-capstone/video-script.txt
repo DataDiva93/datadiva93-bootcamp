@@ -1,0 +1,21 @@
+Hey divas and devs 
+ — welcome to the final week of the DataDiva 
+Bootcamp!
+
+This is it. The capstone project. Your chance to build something 
+real that reflects your skills, your passion, and your future.
+
+You’ve completed 8 full modules across the stack — from Git and 
+Python to Power BI and Tableau.
+
+Now it’s time to choose your own adventure.
+
+What will you build?  
+A dashboard? A web app? A machine learning project?  
+Whatever you choose, make it yours. Show the world what you’ve 
+got.
+
+And don’t forget — include a README, make it clean, and tell 
+your story.  
+You’ve come so far. Let’s finish strong 💜
+
